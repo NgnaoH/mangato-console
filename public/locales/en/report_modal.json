@@ -1,0 +1,9 @@
+{
+  "report_requirment": "Please type <1>{{confirmString}}</1> to confirm.",
+  "report_default_confirm": "I understand",
+  "reasons_validate": "Please type reasons more than 8 character.",
+  "user": "User",
+  "chapter": "Chapter",
+  "report_message": "We'll handle this <1>{{typeReport}}</1> after consider.",
+  "report": "Report"
+}

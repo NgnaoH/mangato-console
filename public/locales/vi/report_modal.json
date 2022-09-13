@@ -1,0 +1,9 @@
+{
+  "report_requirment": "Nhập <1>{{confirmString}}</1> để xóa.",
+  "report_default_confirm": "Tôi chấp nhận",
+  "reasons_validate": "Vui lòng nhập nhiều hơn 8 ký tự.",
+  "user": "Người dùng",
+  "chapter": "Chương",
+  "report_message": "Chúng tôi sẽ xử lí {{typeReport}} này sau khi xem xét.",
+  "report": "Báo cáo"
+}
